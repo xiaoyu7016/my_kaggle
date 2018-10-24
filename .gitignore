@@ -2,3 +2,5 @@
 *.pkl
 *.gz
 *.h5
+*.sav
+*.npy
